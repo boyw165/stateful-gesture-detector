@@ -1,0 +1,3 @@
+include ':app-demo',
+        ':gesture-detector',
+        ':gesture-detector-rx'
